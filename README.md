@@ -1,7 +1,4 @@
-Andrew Williams
-andrewwi@uw.edu
-
-This zip file contains:
+This project contains:
 
 1) 3Des.py: This file contains the implementation of 3Des as described in the assignment instructions.
 2) 3DesDemo.py: This file is a demo script that uses os.system() to call 3Des.py from the command line.
